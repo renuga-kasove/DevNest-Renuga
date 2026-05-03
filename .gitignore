@@ -6,7 +6,7 @@ dist
 dist-ssr
 *.local
 
-# Logs
+#  Logs
 logs
 *.log
 npm-debug.log*
