@@ -1,2 +1,0 @@
-# DevNest-Renuga
-portfolio
